@@ -1,7 +1,5 @@
 # Shopping List
 
-Учебный проект по Android.
-
 ## Реализовано
 
 * Jetpack Compose
