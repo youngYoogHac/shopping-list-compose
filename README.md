@@ -17,3 +17,10 @@
 * DataStore
 * StateFlow
 * ViewModel
+
+
+---
+
+Описание проекта находится в PROJECT_DESCRIPTION.md
+
+---
